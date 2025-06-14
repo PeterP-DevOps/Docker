@@ -108,7 +108,7 @@ networks:
 
 ```
 ![image1.1](image1.1.png)
-![image](https://github.com/user-attachments/assets/830986e3-0980-430e-8123-b6e7818effa2)
+![image1.2](image1.2.png)
 ### Задание 5
 Выполните действия и приложите текст конфига текущего сервиса:
 
@@ -320,9 +320,9 @@ networks:
       config:
         - subnet: 172.22.0.0/24
 ```
-![image](https://github.com/user-attachments/assets/bc837245-c80b-44e8-b2c2-cedbd568a43b)
+![image1](image1.png)
 
-![image](https://github.com/user-attachments/assets/27072df9-97d2-4c45-934e-f3336220a793)
+![image2](image2.png)
 
 ### Задание 8
 Выполните действия:
@@ -331,6 +331,6 @@ networks:
 Приложите скриншот консоли с проделанными действиями.
 ### Решение 8
 
-![image](https://github.com/user-attachments/assets/e6ceef27-b0d0-42a1-b8bd-168550b2a6df)
+![image3](image3.png)
 
-![image](https://github.com/user-attachments/assets/d59eab12-f5a9-4c88-bc31-4153337dc985)
+![image4](image4.png)
