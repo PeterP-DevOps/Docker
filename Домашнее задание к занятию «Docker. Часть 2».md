@@ -107,7 +107,7 @@ networks:
         - subnet: 172.22.0.0/24
 
 ```
-![image](https://github.com/user-attachments/assets/d4354705-5189-48f6-98df-dfee2c7ba2ad)
+![image1.1](image1.1.png)
 ![image](https://github.com/user-attachments/assets/830986e3-0980-430e-8123-b6e7818effa2)
 ### Задание 5
 Выполните действия и приложите текст конфига текущего сервиса:
